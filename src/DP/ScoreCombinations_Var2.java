@@ -2,7 +2,7 @@ package DP;
 
 import java.util.Scanner;
 
-public class SC_Var2{
+public class ScoreCombinations_Var2 {
 
     public static int numofComb(int tot)
     {
